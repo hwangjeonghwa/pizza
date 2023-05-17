@@ -1,0 +1,185 @@
+
+피자메뉴
+
+1. 블랙타이거슈림프+블랙앵거스스테이크 베스트
+#씨푸드와스테이크의 스페셜 콜라보
+36,400원~ 
+29,750원~
+
+2.크랩&립 하우스 NEW
+#스노우크랩&치즈의 눈꽃 축제와 립 스테이크의 불꽃축제!
+34,900원~
+29,000원~ 
+
+3.블록버스터4
+#4개 도시의 프리미엄 요리를 품은 블록버스터급 콰트로 피자!
+36,900원~
+29,500원~ 
+
+4.와일드 와일드 웨스트 스테이크
+#카우보이들이 즐겨 먹던 정통 그릴드 비프스페이크의 재현!
+33,900원~
+28,000원~
+
+5.와일드 와일드 웨스트 스테이크+블랙타이거 슈림프
+#와일드한 스테이크의 맛과 블랙타이거 슈림프의 만남!
+#스테이크와 씨푸드를 동시에!
+35,400원~
+29,000원~
+
+6.우리 고구마
+#고구마 큐브&무스가 듬뿍!
+30,900원~
+23,500원~
+
+7.이탈리아 마르게리따
+#이탈리아 전통의 맛! 피자 마르게리따!
+
+8.뉴욕 오리진
+#다채로운 토핑의 미국 피자 오리진 스타일
+
+
+
+
+
+
+1. KT 멤버쉽 VVIP 3만원 할인
+포인트 1만점 차감
+vvip초이스 통합 월 1회
+정가품목으로 4만원 이상 결제 시 할인 적용
+스페셜세트,싱글,킹고피자 제외
+방문포장에 한해 할인 적용
+주문하러가기
+
+2. 생일쿠폰
+도미노 세트 25% 할인쿠폰
+프리미엄 피자+ 음료선택시 적용됨.
+KT멤버쉽 고객 중 생일대상자만 쿠폰 다운이 가능합니다.
+쿠폰 다운로드 기간 : 생일 당월 1일 ~ 말일
+쿠폰다운받기
+
+3. 멜론치즈 엣지 피자 구매시 30% 할인권 증정
+도미노 피자와 멜론의 달콤한 맛남!
+멜론 치즈 엣지 온라인 구매 고객 대상
+멜론 6개월 30% 할인권 선착순 추가 증정!
+쿠폰다운받기
+
+4. 모든 피자 주문시 사이드 & 라이스볼 반값
+ 2월부터 3월 한달간 적용
+모든 피자 주문에 한해 사이드디시 반값 프로모션 이용 가능
+오프라인 및 온라인 주문 모두 적용 가능
+함께 주문하는 피자에 대해 제휴 및 쿠폰 중복 사용 가능
+주문하러가기
+
+map
+
+도미노 피자 장항점
+주소 : 경기도 고양시 일산동구 호수로 606
+정발산역 1번 출구에서 588m
+영업시간 : 11:30 ~ 21:30 
+
+도미노 피자 신당점
+주소 : 서울 중구 다산로 156 1층 도미노피자
+약수역 3번 출구에서 302m
+영업시간 : 11:00 ~ 21:30
+
+도미노 피자 잠원점
+주소 : 서울 서초구 나루터로 61 태승빌딩
+신사역 4번 출구에서 274m
+영업시간 : 11:30 ~ 21:30
+
+도미노 피자 명동점
+주소 : 서울 중구 마른내로 47
+을지로3가역 8번 출구에서 101m
+영업시간 : 11:00 ~ 21:30
+
+
+1577-3082
+이용약관 개인정보처리방침 위치기반서비스 고객센터 인재채용 가맹점모집 단체주문
+06223 서울특별시 강남구 역삼로25번길35(역삼동,청오큐브타워)청오디피케이(주) l 대표이사:오광현,김영훈
+사업자 등록번호:220-81-03371 l 통신판매업신고:강남5064호 l 개인정보보호책임자:이명윤
+문의:webmaster@dominos.co.kr
+Copyright&copy; Domino'sPizza.Allrights reserved.
+
+메뉴
+피자
+1인메뉴
+하프앤하프
+사이드디시
+인기세트메뉴
+마이키친
+음료&기타
+
+
+
+
+.btitle{
+  position: relative;
+  width: 250px;
+  height: 250px;
+  margin: auto;
+  margin-top: 80px;
+  /* margin-left: -80px; */
+  /* border: 1px solid #000; */
+  background-color: #e9e9e9;
+  transition: 0.5s;
+}
+.btitle:hover{
+  background-color: rgb(47, 166, 245);
+  color: #fff;
+  border-radius: 40%;
+  animation: circle 10s linear infinite;
+}
+
+/* .btitle span{
+  position: absolute;
+  width: inherit;
+  height: inherit;
+  border: 1px solid #333;
+  border-radius: 40% 60% 65% 35% / 40% 45% 55% 60%;
+}
+
+.btitle span:nth-child(1){animation: circle 6s linear infinite;}
+.btitle span:nth-child(2){animation: circle 4s linear infinite reverse;}
+.btitle span:nth-child(3){animation: circle 10s linear infinite;}
+
+.btitle:hover span:nth-child(1){opacity: 0.3;}
+.btitle:hover span:nth-child(2){opacity: 0.6;}
+.btitle:hover span:nth-child(3){opacity: 0.8;}
+
+.btitle:nth-child(1):hover span{
+  background-color: crimson;
+  border: none;
+
+}
+.btitle:nth-child(2):hover span{
+  background-color: dodgerblue;
+  border: none;
+}
+.btitle:nth-child(3):hover span{
+  background-color: yellowgreen;
+  border: none;
+}
+.btitle:nth-child(4):hover span{
+  background-color: lightcoral;
+  border: none;
+} */
+/* .btitle div{
+  border: 1px solid red;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(20%);
+  width: 70%;
+  text-align: center;
+  color: #333;
+} */
+.btitle div{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+square
+
